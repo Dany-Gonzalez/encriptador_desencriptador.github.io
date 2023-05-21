@@ -1,0 +1,125 @@
+.fondo {
+    background: #F8F9F9;
+}
+
+.logo img {
+    margin: -20px -5px;
+    width: 150px;
+    height: 150px;
+}
+
+.logo h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.logo span {
+    color: #3498DB;
+}
+
+.cuadro_texto {
+    display: block;
+    font-size: 20px;
+    margin: 100px 0 0 200px;
+}
+
+.cuadro_texto textarea {
+    outline: none; 
+    width: 50%;
+    height: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    border: 2px solid #3498DB;
+    background: transparent;
+}
+
+::-webkit-input-placeholder {
+    color: black;
+}
+
+.primera_seccion label {
+    margin: 80px -150px 0px 200px;
+}
+
+.primera_seccion button {
+    margin: 20px -150px 0px 200px;
+}
+
+.encriptar {
+    outline: none;
+    color: #EEF1F5;
+    background-color: #3498DB;
+    color: white;
+    width: 12%;
+    border-radius: 16px;
+    border: 2px solid #3498DB;
+    font-size: 23px;
+}
+
+.desencriptar {
+    outline: none;
+    color: #EEF1F5;
+    background-color: #229954;
+    color: white;
+    width: 12%;
+    border-radius: 16px;
+    border: 2px solid #229954;
+    font-size: 23px;
+}
+
+.copiar {
+    outline: none;
+    color: #EEF1F5;
+    background-color: #F5B041;
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+    width: 35%;
+    border-radius: 16px;
+    border: 2px solid #F5B041;
+    font-size: 22px;
+}
+
+.panel_lateral {
+    display: block;
+    margin-left: 1080px;
+    margin-top: -600px;
+    width: 20%;
+    height: 650px;
+    border-radius: 15px;
+    border: 2px solid #3498DB;
+    background: transparent;
+}
+
+.imagen {
+    width: 280px;
+    height: 280px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.mensaje_encriptado h2 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.mensaje_encriptado p {
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer p{
+    color: black;
+}
+
+footer a{
+    text-decoration: none;
+}
